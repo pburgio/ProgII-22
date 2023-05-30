@@ -1,0 +1,10 @@
+--- prova.txt	2023-05-30 15:12:57.452718900 +0200
++++ prova2.txt	2023-05-30 15:13:23.064681500 +0200
+@@ -3,5 +3,5 @@
+ del
+ cammin
+ di
+-nostra
++vostra
+ vita
+\ No newline at end of file
